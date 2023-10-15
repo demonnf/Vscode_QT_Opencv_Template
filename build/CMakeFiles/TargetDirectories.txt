@@ -1,0 +1,8 @@
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/Vscode_Template.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/edit_cache.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/rebuild_cache.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/list_install_components.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/install.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/install/local.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/install/strip.dir
+/Users/demon/Desktop/QT_Study/Vscode_Template/build/CMakeFiles/Vscode_Template_autogen.dir

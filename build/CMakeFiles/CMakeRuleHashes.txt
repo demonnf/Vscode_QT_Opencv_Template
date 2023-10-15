@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+8b8fa9fa37acc3c96b82182c9b1c210b CMakeFiles/Vscode_Template_autogen

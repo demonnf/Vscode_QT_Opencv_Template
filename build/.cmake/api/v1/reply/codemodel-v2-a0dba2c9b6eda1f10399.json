@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-92af6625445d457cec92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Vscode_Template",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Vscode_Template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vscode_Template-Debug-61fc0a853f18e9bcfdca.json",
+					"name" : "Vscode_Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Vscode_Template_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vscode_Template_autogen-Debug-39b81caed5d7ab09cb8c.json",
+					"name" : "Vscode_Template_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/demon/Desktop/QT_Study/Vscode_Template/build",
+		"source" : "/Users/demon/Desktop/QT_Study/Vscode_Template"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
